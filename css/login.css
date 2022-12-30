@@ -1,0 +1,35 @@
+.main-outer{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/free-photo/business-team-planning-marketing-strategy_53876-102032.jpg?w=826&t=st=1666277861~exp=1666278461~hmac=155c2e60c570c4dfa1bfb6da0440417d6a80c649d34c048a05e9a7fcc8e76cfb');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    min-height: 250px;
+    background-color: white;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+h3{
+    text-align: center;
+    color: #2980b9;
+}
+.row{
+    margin: 0;
+}
+.col-12{
+    margin-bottom: 20px;
+}
+button{
+    width: 100%;
+}

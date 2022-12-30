@@ -1,0 +1,15 @@
+.title{
+    color: #d35400;
+}
+.order-id-date-outer{
+    display: flex;
+    align-items: center;
+}
+.total{
+    color: #d35400;
+}
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
